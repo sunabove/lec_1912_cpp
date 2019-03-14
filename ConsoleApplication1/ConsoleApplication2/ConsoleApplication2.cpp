@@ -7,6 +7,13 @@
 int main()
 {
     std::cout << "Hello World!\n"; 
+
+	int i;
+	double d;
+	unsigned short us;
+	const char cc = 'A' ;
+	static long double sld; 
+	static const unsigned long long cull = 1;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

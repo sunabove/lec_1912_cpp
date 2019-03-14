@@ -4,9 +4,15 @@
 #include "pch.h"
 #include <iostream>
 
-int main()
-{
-    std::cout << "Hello World!\n"; 
+int main(int argc, char ** argv) {
+		
+	std::cout << "argc = " << argc << std::endl; 
+	
+	for (int i = 0 ; i < argc ; i++) {
+		std::cout << "argv[" << i << "] = " << argv[i] << std::endl;		
+	}
+
+	return 0;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
