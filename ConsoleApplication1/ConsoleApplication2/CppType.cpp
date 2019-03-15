@@ -4,16 +4,23 @@
 #include "pch.h"
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n"; 
+    cout << "Hello World!\n"; 
 
+	bool b = true; 
 	int i;
 	double d;
 	unsigned short us;
 	const char cc = 'A' ;
 	static long double sld; 
 	static const unsigned long long cull = 1;
+
+	cout << b << endl ; 
+
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
