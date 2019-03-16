@@ -10,16 +10,16 @@ int main()
 {
     cout << "Hello World!\n"; 
 
-	bool b = true; 
+	bool b = 0x1 ; 
 	int i;
-	double d;
+	float f = 0.1f;
+	double d = 0.2;
 	unsigned short us;
 	const char cc = 'A' ;
-	static long double sld; 
+	static long double sld = 1L ; 
 	static const unsigned long long cull = 1;
 
 	cout << b << endl ; 
-
 
 }
 
