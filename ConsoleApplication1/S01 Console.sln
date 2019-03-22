@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P02 C++ Type", "ConsoleAppl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P03 Literal", "P03 Literal\P03 Literal.vcxproj", "{0B7CD4DF-EAA5-4C2F-B144-3D6C6FDDDE30}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P04 Operator", "P04 Operator\P04 Operator.vcxproj", "{241B959B-3994-4732-A032-87E5EF692A23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{0B7CD4DF-EAA5-4C2F-B144-3D6C6FDDDE30}.Release|x64.Build.0 = Release|x64
 		{0B7CD4DF-EAA5-4C2F-B144-3D6C6FDDDE30}.Release|x86.ActiveCfg = Release|Win32
 		{0B7CD4DF-EAA5-4C2F-B144-3D6C6FDDDE30}.Release|x86.Build.0 = Release|Win32
+		{241B959B-3994-4732-A032-87E5EF692A23}.Debug|x64.ActiveCfg = Debug|x64
+		{241B959B-3994-4732-A032-87E5EF692A23}.Debug|x64.Build.0 = Debug|x64
+		{241B959B-3994-4732-A032-87E5EF692A23}.Debug|x86.ActiveCfg = Debug|Win32
+		{241B959B-3994-4732-A032-87E5EF692A23}.Debug|x86.Build.0 = Debug|Win32
+		{241B959B-3994-4732-A032-87E5EF692A23}.Release|x64.ActiveCfg = Release|x64
+		{241B959B-3994-4732-A032-87E5EF692A23}.Release|x64.Build.0 = Release|x64
+		{241B959B-3994-4732-A032-87E5EF692A23}.Release|x86.ActiveCfg = Release|Win32
+		{241B959B-3994-4732-A032-87E5EF692A23}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
