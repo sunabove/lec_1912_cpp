@@ -10,17 +10,17 @@ int main()
 {
     cout << "Hello World!\n"; 
 
-	bool b = 0x1 ; 
-	int i;
+	bool b = true; 
+	char c = 'A';
+	wchar_t wc = L'가';
+	short s = 8;
+	int i = 16;
 	float f = 0.1f;
 	double d = 0.2;
-	unsigned short us;
-	const char cc = 'A' ;
-	static long double sld = 1L ; 
+	long double sld = 1L ; 
 	static const unsigned long long cull = 1;
 
-	cout << b << endl ; 
-
+	cout << wc << endl ; 
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
