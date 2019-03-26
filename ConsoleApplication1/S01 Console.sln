@@ -11,7 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P01 argument print", "P01 A
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P02 C++ Type", "P02 Type\ConsoleApplication2.vcxproj", "{0E5EAE30-302B-4610-A563-2BC48FD010D2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P05 Function", "P04 Function\P04 Function.vcxproj", "{23D5AF2B-13DD-4B95-958B-013C1CA2DC61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P06 Function", "P04 Function\P04 Function.vcxproj", "{23D5AF2B-13DD-4B95-958B-013C1CA2DC61}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P05 Control", "P05 Control\P05 Control.vcxproj", "{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{23D5AF2B-13DD-4B95-958B-013C1CA2DC61}.Release|x64.Build.0 = Release|x64
 		{23D5AF2B-13DD-4B95-958B-013C1CA2DC61}.Release|x86.ActiveCfg = Release|Win32
 		{23D5AF2B-13DD-4B95-958B-013C1CA2DC61}.Release|x86.Build.0 = Release|Win32
+		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Debug|x64.ActiveCfg = Debug|x64
+		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Debug|x64.Build.0 = Debug|x64
+		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Debug|x86.Build.0 = Debug|Win32
+		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Release|x64.ActiveCfg = Release|x64
+		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Release|x64.Build.0 = Release|x64
+		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Release|x86.ActiveCfg = Release|Win32
+		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
