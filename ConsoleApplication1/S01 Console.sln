@@ -1,19 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.438
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P03 Literal", "P03 Literal\P03 Literal.vcxproj", "{0B7CD4DF-EAA5-4C2F-B144-3D6C6FDDDE30}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P030 Literal", "P03 Literal\P03 Literal.vcxproj", "{0B7CD4DF-EAA5-4C2F-B144-3D6C6FDDDE30}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P04 Operator", "P04 Operator\P04 Operator.vcxproj", "{241B959B-3994-4732-A032-87E5EF692A23}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P040 Operator", "P04 Operator\P04 Operator.vcxproj", "{241B959B-3994-4732-A032-87E5EF692A23}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P01 argument print", "P01 Argument\ConsoleApplication1.vcxproj", "{277E4CBA-1F51-4D57-A0CE-B7A2083EF443}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P010 argument print", "P01 Argument\ConsoleApplication1.vcxproj", "{277E4CBA-1F51-4D57-A0CE-B7A2083EF443}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P02 C++ Type", "P02 Type\ConsoleApplication2.vcxproj", "{0E5EAE30-302B-4610-A563-2BC48FD010D2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P020 C++ Type", "P02 Type\ConsoleApplication2.vcxproj", "{0E5EAE30-302B-4610-A563-2BC48FD010D2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P06 Function", "P04 Function\P04 Function.vcxproj", "{23D5AF2B-13DD-4B95-958B-013C1CA2DC61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P060 Function", "P04 Function\P04 Function.vcxproj", "{23D5AF2B-13DD-4B95-958B-013C1CA2DC61}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P05 Control", "P05 Control\P05 Control.vcxproj", "{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P050 Control", "P05 Control\P05 Control.vcxproj", "{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P051 print star", "P051 print star\P051 print star.vcxproj", "{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P052 print_multiple_number", "print_multiple_number\print_multiple_number.vcxproj", "{F3EF2A96-1375-49C6-8EFA-00240788D9EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P053 sum_of_numbers", "P053 sum_of_numbers\P053 sum_of_numbers.vcxproj", "{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +77,30 @@ Global
 		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Release|x64.Build.0 = Release|x64
 		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Release|x86.ActiveCfg = Release|Win32
 		{48D50FAB-B6F0-443D-85BA-9EEA42E0EA3D}.Release|x86.Build.0 = Release|Win32
+		{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}.Debug|x64.ActiveCfg = Debug|x64
+		{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}.Debug|x64.Build.0 = Debug|x64
+		{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}.Debug|x86.Build.0 = Debug|Win32
+		{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}.Release|x64.ActiveCfg = Release|x64
+		{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}.Release|x64.Build.0 = Release|x64
+		{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}.Release|x86.ActiveCfg = Release|Win32
+		{905ADD55-37C1-4A19-8A4D-CF00C83F8DA8}.Release|x86.Build.0 = Release|Win32
+		{F3EF2A96-1375-49C6-8EFA-00240788D9EC}.Debug|x64.ActiveCfg = Debug|x64
+		{F3EF2A96-1375-49C6-8EFA-00240788D9EC}.Debug|x64.Build.0 = Debug|x64
+		{F3EF2A96-1375-49C6-8EFA-00240788D9EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3EF2A96-1375-49C6-8EFA-00240788D9EC}.Debug|x86.Build.0 = Debug|Win32
+		{F3EF2A96-1375-49C6-8EFA-00240788D9EC}.Release|x64.ActiveCfg = Release|x64
+		{F3EF2A96-1375-49C6-8EFA-00240788D9EC}.Release|x64.Build.0 = Release|x64
+		{F3EF2A96-1375-49C6-8EFA-00240788D9EC}.Release|x86.ActiveCfg = Release|Win32
+		{F3EF2A96-1375-49C6-8EFA-00240788D9EC}.Release|x86.Build.0 = Release|Win32
+		{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}.Debug|x64.ActiveCfg = Debug|x64
+		{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}.Debug|x64.Build.0 = Debug|x64
+		{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}.Debug|x86.Build.0 = Debug|Win32
+		{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}.Release|x64.ActiveCfg = Release|x64
+		{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}.Release|x64.Build.0 = Release|x64
+		{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}.Release|x86.ActiveCfg = Release|Win32
+		{421B8A41-CBEA-40F2-BAE9-01A9AE6413A9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
