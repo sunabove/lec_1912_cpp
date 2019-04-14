@@ -31,5 +31,10 @@ int main(){
 	cout << isEven << endl;
 	cout << isOdd << endl; 
 
+	double sales[4] = { 12.25, 32.50 };
+
+	int myList[5] = { 0, 4, 8, 12, 16 };
+	int yourList[5];
+
 	return 0;
 } 
